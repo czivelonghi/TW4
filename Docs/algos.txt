@@ -1,0 +1,137 @@
+
+[|1.0;2.0;3.0;4.0;5.0|] |> Seq.average
+
+let standardDeviation (prices:seq<float>) = 
+    let count = Seq.length prices
+    let avg = Seq.average prices
+    let squares = [ for p in prices -> (p - avg) * (p - avg) ]
+    sqrt ((Seq.sum squares) / (float count))
+
+standardDeviation [1.0;2.0;3.0;4.0;5.0]
+
+standardDeviation [5.0;4.0;3.0;2.0;1.0]
+
+--sma: http://fssnip.net/5R
+
+sma(10,'c')
+
+let SMA (period : int) (values : float seq) =
+        Seq.windowed period values
+        |> Seq.map (fun x -> Array.average x)
+
+//pct change
+  New Value - Old Value/|Old Value|  x 100%
+
+  pct_chg(n1,n2): n1-n2/abs(n1) x 100
+
+
+--expressions from previous app AD
+TrailingStopLoss(P1,P2)	AND(TradeHighPrice>=EntryPrice,LastPrice<=TradeHighPrice*P1)
+LastPrice	LastPrice
+EntryPrice	backtest_entries_v.EntryPrice
+EntryDate	backtest_entries_v.TradeDate
+PriceDate(n)	PriceDate(n1)
+TradeHighPrice	backtest_entries_v.TradeHighPrice
+BlackCandle(n)	Open(n1)>Close(n1)*1.02
+Open(n)	Open(n1)
+Close(n)	Close(n1)
+TimeLimit(n,n)	AND(datediff("n1","EntryDate","PriceDate(0)")>=n2)
+Profit%(n)	if(and(EntryType="Buy Long"),LastPrice>=(EntryPrice * n1),EntryPrice>=(LastPrice * n1))
+TrailingStop(n)	if(and(EntryType="Buy Long"),LastPrice<=(TradeHighPrice * n1),LastPrice>=(TradeHighPrice * n1))
+ProfitStop(n,n)	AND(Profit%(n1),TrailingStop(n2))
+Doji(n)	Open(n1)=Close(n1)
+Volume(n)	Volume(n1)
+WhiteCandle(n)	Close(n1)>(Open(n1)*1.05)
+1DayBullishReversal(n)	AND(Doji(n1+1),WhiteCandle(n1))
+3WhiteSoldiers(n)	AND(WhiteCandle(n1+2),WhiteCandle(n1+1),WhiteCandle(n1))
+3DaysDown(n)	AND(DownDay(n1+2),DownDay(n1+1),DownDay(n1))
+GapUp(n)	High(n1+1)<Low(n1)
+High(n)	High(n1)
+Low(n)	Low(n1)
+GapDown(n)	Low(n1+1)>High(n1)
+UpDay(n)	Close(n1)>Open(n1)
+LowerOpen(n)	Open(n1+1)>Open(n1)
+LowerClose(n)	Close(n1+1)>Close(n1)
+HigherClose(n)	Close(n1+1)<Close(n1)
+HigherOpen(n)	Open(n1+1)<Open(n1)
+DownDay(n)	Close(n1)<Open(n1)
+Profit$(n)	if(and(EntryType="Buy Long"),LastPrice>=(EntryPrice + n1),LastPrice<=(EntryPrice - n1))
+EntryType	backtest_entries_v.Entrytype
+WhiteSmallBody(n)	AND(Close(n1)>=Open(n1),Close(n1)<=(Open(n1)*1.01))
+3BlackSoldiers(n)	AND(BlackCandle(n1+2),BlackCandle(n1 + 1),BlackCandle(n1))
+3DaysUp(n)	AND(UpDay(n1+2),UpDay(n1+1),UpDay(n1))
+BlackSmallBody(n)	AND(Open(n1)>=Close(n1),Open(n1)<=(Close(n1)*1.01))
+SmallBody(n)	OR(WhiteSmallBody(n1),BlackSmallBody(n1))
+AvgVol(n,n)	average('volume',n1,n2)
+AvgClose(n,n)	average('close',n1,n2)
+LowerHigh(n)	High(n1+1)>High(n1)
+EntryType	setups_v.SetupAction
+EntryPrice	setups_v.TargetEntryPrice
+ExitPrice	setups_v.TargetExitPrice
+HighPrice	setups_v.HighPrice
+LowPrice	setups_v.LowPrice
+Hammer(n)	and(BodyCenter(n1)>.8, BodyPercOfCandle(n1)>.2, BodyPercOfCandle(n1)<.4)
+TopTail(n,n)	AND((Open(n1)*n2)<High(n1),(Close(n1)*n2)<High(n1))
+LastPrice	setups_v.LastPrice
+StopLossPrice	setups_v.StopLossPrice
+PriceEntryTarget	if(and(EntryType="Buy Long"),LastPrice>=EntryPrice,LastPrice<=EntryPrice)
+StopLossTarget	if(and(EntryType="Buy Long"),LastPrice<=StopLossPrice,LastPrice>=StopLossPrice)
+ProfitTarget	if(and(EntryType="Buy Long"),LastPrice>=ExitPrice,LastPrice<=ExitPrice)
+AvgHigh(n,n)	average('high',n1,n2)
+AvgLow(n,n)	average('low',n1,n2)
+MaxHigh(n,n)	max('high',n1,n2)
+MaxOpen(n,n)	max('open',n1,n2)
+MinLow(n,n)	min('low',n1,n2)
+RangeBound(n,n)	((MaxHigh(n1,n2) - MinLow(n1,n2)) / (AvgHigh(n1,n2) - AvgLow(n1,n2)) * 100)
+AvgOpen(n,n)	average('open',n1,n2)
+BodyPercOfCandle(n)	ABS(Close(n1)-Open(n1))/(High(n1)-Low(n1))
+DragonFlyDoji(n,n)	"AND(ABS(open(n2)-Close(n2))/(.001+High(n2)-Low(n2))<=n1,
+(Close(n2)-Low(n2))/(.001+High(n2)-Low(n2))>=1-n1,
+(open(n2)-Low(n2))/(.001+High(n2)-low(n2))>=1-n1)"
+GraveStoneDoji(n,n)	"AND(ABS(open(n2)-Close(n2))/(.001+High(n2)-Low(n2))<=n1,
+(Close(n2)-Low(n2))/(.001+High(n2)-Low(n2))<=n1,
+(open(n2)-Low(n2))/(.001+High(n2)-low(n2))<=n1)"
+BodySize(n,n,n)	"AND( BodyPercOfCandle(n3)<=n1
+,BodyPercOfCandle(n3)>=n2)"
+BodyCenter(n)	( ((Close(n1) + Open(n1) ) / 2)-Low(n1) ) / ( High(n1) - Low(n1) )
+BodyRange(n,n,n)	and(BodyCenter(n3)<=n1,BodyCenter(n3)>=n2)
+Candle(n,n,n)	AND(CandleSize(n1,n3), CandleRange(n2,n3))
+CandleSize(n,n)	if(and(n1='S'),BodySize(.2,0,n2),if(and(n1='M'),BodySize(.6,.4,n2),BodySize(1,.8,n2)))
+CandleRange(n,n)	if(and(n1='B'),BodyRange(.2,0,n2),if(and(n1='M'),BodyRange(.6,.4,n2),BodyRange(1,.8,n2)))
+BigVol(n,n)	AvgVol(50,n2)*n1<= Volume(n2)
+SmallVol(n,n)	AvgVol(50,n2)*n1>= Volume(n2)
+StdPriceDev(n)	if(and(n1='close'),Close(0),if(and(n1='open'),Open(0),if(and(n1='high'),High(0),Low(0)))) + stdev(n1,0,0)
+PriceMACrossOver(n,n)	and((Close(1+n2) < AvgClose(n1,1+n2)),(Close(n2) > AvgClose(n1,n2)))
+PriceMACrossUnder(n,n)	and((Close(n2+1) > AvgClose(n1,n2+1)),(Close(n2) < AvgClose(n1,n2)))
+LowerLow(n)	low(n1+1)>low(n1)
+DownTrend(n)	and(lowerhigh(n1+2),lowerhigh(n1+1),lowerhigh(n1),lowerlow(n1+2),lowerlow(n1+1),lowerlow(n1),downday(n1+2),downday(n1+1),downday(n1))
+HigherHigh(n)	high(n1+1)<high(n1)
+UpTrend(n)	and(higherhigh(n1+2),higherhigh(n1+1),higherhigh(n1),higherlow(n1+2),higherlow(n1+1),higherlow(n1),upday(n1+2),upday(n1+1),upday(n1))
+Higherlow(n)	low(n1+1)<low(n1)
+BullishEngulfing(n)	and(high(n1+1)<close(n1),low(n1+1)>open(n1),downday(n1+1),upday(n1))
+BearishEngulfing(n)	and(high(n1+1)<open(n1),low(n1+1)>close(n1),upday(n1+1),downday(n1))
+BullishHarami(n)	and(close(n1+1)<open(n1),open(n1+1)>close(n1),downday(n1+1),upday(n1))
+BearishHarami(n)	and(close(n1+1)>open(n1),open(n1+1)<close(n1),upday(n1+1),downday(n1))
+BullishKicker(n)	and(blackcandle(n1+1),whitecandle(n1),open(n1+1)<(open(n1)*.99))
+BearishKicker(n)	and(whitecandle(n1+1),blackcandle(n1),open(n1+1)>(open(n1)))
+BullishMorningStar(n)	and(downday(n1+2), gapdown(n1+1), smallbody(n1+1),upday(n1) ,higherclose(n1) )
+BearishEveningStar(n)	and(upday(n1+2),gapup(n1+1),smallbody(n1+1),downday(n1))
+MACrossUnder(n,n,n)	and(AvgClose(n1,n3+1)>AvgClose(n2,n3+1),AvgClose(n1,n3)<AvgClose(n2,n3))
+MACrossOver(n,n,n)	and(AvgClose(n1,n3+1)<AvgClose(n2,n3+1),AvgClose(n1,n3)>AvgClose(n2,n3))
+MaxClose(n,n)	max('close',n1,n2)
+MinOpen(n,n)	min('open',n1,n2)
+MinClose(n,n)	Min('close',n1,n2)
+HoldPeriod	explorations_v.holdperiod
+EntryType	explorations_v.entrytype
+StartDate	explorations_v.startdate
+TradePrice	exploration_results_v.tradeprice
+TradeVolume	exploration_results_v.tradevolume
+TradeDate	exploration_results_v.tradedate
+HighPrice	exploration_results_v.highprice
+LowPrice	exploration_results_v.lowprice
+FlatBase(n)	"and(and( AvgHigh(20,n1)>=high(n1), AvgLow(20,n1)<=low(n1)),
+and( AvgHigh(20,n1+1)>=high(n1+1), AvgLow(20,n1+1)<=low(n1+1)),
+and( AvgHigh(20,n1+2)>=high(n1+2), AvgLow(20,n1+2)<=low(n1+2)))"
+Pivot(n)	(High(n1)+Low(n1)+Close(n1))/3
+PivotSupport(n)	(2*pivot(n1))-high(n1)
+PivotResistance(n)	(2*pivot(n1))-low(n1)

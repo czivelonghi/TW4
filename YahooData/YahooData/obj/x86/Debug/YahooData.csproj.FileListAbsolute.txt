@@ -1,0 +1,10 @@
+C:\dev\YahooData\YahooData\bin\Debug\YahooData.exe
+C:\dev\YahooData\YahooData\bin\Debug\YahooData.pdb
+C:\dev\YahooData\YahooData\obj\x86\Debug\YahooData.Form1.resources
+C:\dev\YahooData\YahooData\obj\x86\Debug\YahooData.Properties.Resources.resources
+C:\dev\YahooData\YahooData\obj\x86\Debug\YahooData.csproj.GenerateResource.Cache
+C:\dev\YahooData\YahooData\obj\x86\Debug\YahooData.exe
+C:\dev\YahooData\YahooData\obj\x86\Debug\YahooData.pdb
+C:\dev\YahooData\YahooData\bin\Debug\Newtonsoft.Json.dll
+C:\dev\YahooData\YahooData\bin\Debug\Newtonsoft.Json.xml
+C:\dev\YahooData\YahooData\obj\x86\Debug\YahooData.csprojResolveAssemblyReference.cache

@@ -1,0 +1,66 @@
+chain multiple commands together.
+ie.: search nyse_up_day -> filter vol_gt_200k -> export csv
+or merge multiple result sets
+ie: search> nyse up_day union scan nasdaq up_day -> filter vol_gt_200k -> export csv
+
+--algebraic symbols (http://en.wikipedia.org/wiki/List_of_mathematical_symbols):
+--algebraic notation replacements: http://www.purplemath.com/modules/mathtext.htm
+
+A Union B or A U B:		union all results
+A Intersect B or A^B:	intersect items only in common
+A -> B:					map A to B.
+A <-> B:				map A to B & B to A
+
+add algos:
+- ranking: results having the greatest/least values based on criteria range.
+	i.e. rank top(10,v(0))&bottom(10,c(0))
+- clustering: results grouped together
+- filter: filter v(0)>=200000&c(0)>10&c(0)<20
+
+saving records:
+-search> save nyse_up_2_days c(0)>c(1)&c(1)>c(2)
+or
+-backtest> save search nyse_up_2_days c(0)>c(1)&c(1)>c(2)
+
+-format: command context name expression
+
+deleting records:
+
+-delete search nyse_up_2_days
+
+format: command context(optional) name
+
+--data consistency check
+issue											action
+-price symbol doesnt exists in symbol list		either add to symbol list or remove prices
+-symbol doesnt exit in price					remove from symbol list
+-missing price days								mark as bad in symbol list  
+
+-- as part of a query, compute functions on column values
+query> price nyse sma(10,'c') if(o(1)>c(1),1,0)
+or
+
+query> price nyse (a) sma(10,'c') if(o(1)>c(1),1,0)
+
+--multiple commands
+filter(nyse_up_vol)->rank(top 10 by vol)->test(up_vol_tracement)->export(.csv)
+
+export format:
+filter: nyse_up_vol (exch: nyse, period:100 interval: day, exp: v(0)>sma(50,'v') )
+rank: top_10_by_vol (
+test: up_vol_retreacement(period: 1/1/13 - 9/1/13, 
+
+symbol -- rank -- test [win/loss%, 
+A			90%
+B			85%
+
+
+--backtest
+name, desc, capital, commission, slippage %(% * price*shares), risk_per_trade(% of each trade), risk_per_account(% risk of entire capital),
+exit/enter rules
+
+sma(50,'c',0) or count(a,10,sma(50,c(:a)))
+
+
+
+

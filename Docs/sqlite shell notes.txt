@@ -1,0 +1,8 @@
+sqlite3 connection to db: at cmd prompt in sqlite directory type "sqlite3 path\name.db".
+
+import file: 
+sqlite>.separator ','
+sqlite>.import ..path\file.csv table_name
+
+
+tab='\t'

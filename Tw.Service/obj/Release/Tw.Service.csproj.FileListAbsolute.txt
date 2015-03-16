@@ -1,0 +1,69 @@
+C:\dev\Code\TW4\Tw.Service\bin\Release\Tw.Service.dll
+C:\dev\Code\TW4\Tw.Service\bin\Release\Tw.Service.pdb
+C:\dev\Code\TW4\Tw.Service\bin\Release\Db4objects.Db4o.dll
+C:\dev\Code\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Linq.dll
+C:\dev\Code\TW4\Tw.Service\bin\Release\Parser.dll
+C:\dev\Code\TW4\Tw.Service\bin\Release\Tw.Model.dll
+C:\dev\Code\TW4\Tw.Service\bin\Release\Mono.Reflection.dll
+C:\dev\Code\TW4\Tw.Service\bin\Release\Parser.pdb
+C:\dev\Code\TW4\Tw.Service\bin\Release\Tw.Model.pdb
+C:\dev\Code\TW4\Tw.Service\bin\Release\Db4objects.Db4o.xml
+C:\dev\Code\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Linq.xml
+C:\dev\Code\TW4\Tw.Service\obj\Release\ResolveAssemblyReference.cache
+C:\dev\Code\TW4\Tw.Service\obj\Release\Tw.Service.dll
+C:\dev\Code\TW4\Tw.Service\obj\Release\Tw.Service.pdb
+C:\Users\clark\Desktop\TW4\Tw.Service\obj\Release\Tw.Service.csprojResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TW4\Tw.Service\obj\Release\Tw.Service.dll
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Tw.Service.dll
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Tw.Service.pdb
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Parser.dll
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\System.Data.SQLite.dll
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Mono.Reflection.dll
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Parser.pdb
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.xml
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Linq.xml
+C:\Users\clark\Desktop\TW4\Tw.Service\bin\Release\System.Data.SQLite.pdb
+C:\Users\clark\Desktop\TW4\Tw.Service\obj\Release\Tw.Service.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\obj\Release\Tw.Service.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\obj\Release\Tw.Service.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Tw.Service.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Tw.Service.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Cecil.FlowAnalysis.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Instrumentation.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.NativeQueries.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\FSharpAnalysis.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Mono.Cecil.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Mono.Reflection.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\FSharpAnalysis.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Instrumentation.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Linq.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\Db4objects.Db4o.NativeQueries.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Service\bin\Release\System.Data.SQLite.pdb
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Tw.Service.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Tw.Service.pdb
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Cecil.FlowAnalysis.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Instrumentation.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Linq.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.NativeQueries.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\FSharpAnalysis.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Mono.Cecil.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Mono.Reflection.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\System.Data.SQLite.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Tw.Model.dll
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\FSharpAnalysis.pdb
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Tw.Model.pdb
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.xml
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Instrumentation.xml
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.Linq.xml
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\Db4objects.Db4o.NativeQueries.xml
+C:\Development\ClientServer\TW4\Tw.Service\bin\Release\System.Data.SQLite.xml
+C:\Development\ClientServer\TW4\Tw.Service\obj\Release\Tw.Service.csprojResolveAssemblyReference.cache
+C:\Development\ClientServer\TW4\Tw.Service\obj\Release\Tw.Service.dll
+C:\Development\ClientServer\TW4\Tw.Service\obj\Release\Tw.Service.pdb

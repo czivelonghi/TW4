@@ -1,0 +1,43 @@
+C:\Users\clark\Desktop\TW4\Repository\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Repository\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Repository\obj\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Repository\obj\Debug\Tw.Model.pdb
+C:\dev\Code\TW4\Repository\bin\Debug\Tw.Model.dll
+C:\dev\Code\TW4\Repository\bin\Debug\Tw.Model.pdb
+C:\dev\Code\TW4\Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Code\TW4\Repository\obj\Debug\Tw.Model.dll
+C:\dev\Code\TW4\Repository\obj\Debug\Tw.Model.pdb
+C:\dev\Code\TW4\Tw.Model\bin\Debug\Tw.Model.dll
+C:\dev\Code\TW4\Tw.Model\bin\Debug\Tw.Model.pdb
+C:\dev\Code\TW4\Tw.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Code\TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\dev\Code\TW4\Tw.Model\obj\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Tw.Model\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Tw.Model\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Tw.Model\obj\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\TW4\Tw.Model\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\TW4\Tw.Model\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\TW4\Tw.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TW4\TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\TW4\Tw.Model\obj\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4_2\TW4\Tw.Model\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4_2\TW4\Tw.Model\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4_2\TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4_2\TW4\Tw.Model\obj\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\Copy of TW4\Tw.Model\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\Copy of TW4\Tw.Model\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\Copy of TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\Copy of TW4\Tw.Model\obj\Debug\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\bin\Debug\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\bin\Debug\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\obj\Debug\Tw.Model.pdb
+C:\Development\ClientServer\TW4\Tw.Model\bin\Debug\Tw.Model.dll
+C:\Development\ClientServer\TW4\Tw.Model\bin\Debug\Tw.Model.pdb
+C:\Development\ClientServer\TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\Development\ClientServer\TW4\Tw.Model\obj\Debug\Tw.Model.pdb
+C:\Users\Clark\Desktop\development\TW4\Tw.Model\obj\Debug\Tw.Model.csprojResolveAssemblyReference.cache
+C:\Users\Clark\Desktop\development\TW4\Tw.Model\obj\Debug\Tw.Model.dll
+C:\Users\Clark\Desktop\development\TW4\Tw.Model\obj\Debug\Tw.Model.pdb

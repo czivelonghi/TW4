@@ -1,0 +1,84 @@
+--db
+system:
+	-enviroment
+
+user:
+	-expression
+	-search
+	-backtest
+
+company:
+	-symbols
+	-fundamentals
+
+nyse_day,amex_day, nyse_15min, nyse_hourly,nyse_option
+
+
+--project structure
+AppName.Ui.Web					: Web project
+AppName.Ui.Desktop				: 
+AppName.Ui.Console				: 
+AppName.Ui.IPhone				: mobile
+AppName.Data.Entity				: Data Objects
+AppName.Service.Repository		: Service Model					
+AppName.Service.Provider.SQLite	: Data base access
+AppName.Common.Utilities
+AppName.Parser.Search
+AppName.Parser.BackTest
+
+
+Web->repository.search->call DataAccess.Sqlite returns List of tickers.
+
+
+--tw.ui
+tw.ui.web
+    -subscriber
+   
+tw.ui.mobil
+tw.ui.desktop
+
+tw.api
+
+--tw.controllers
+
+--tw.models
+tw.models.subscriber
+    -account
+    -models.search
+    -models.backtest
+    -models.monitor
+    -
+tw.models.search
+    -equity
+    -
+tw.models.backtest
+tw.models.monitor(aka setup)
+tw.models.equity
+    -symbol
+    -price
+    -exhange
+
+--context
+    -subscribe.context
+   
+--data access
+tw.repository.dataaccess
+    -subscriber
+        -create ( provider factory -> call method)
+        -read
+        -delete
+    -equity
+        -search
+tw.repository.provider
+    -sqlite : inherits oledbprovider
+        -read (select * from table)
+        -delete (delete from)
+        -update
+        -add
+    -mysql
+tw.repository.service :implements respository.iservice
+    -web
+        -get(url,ret xml)
+    -ftp
+        -get(url, file)
+        -put

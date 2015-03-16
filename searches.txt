@@ -1,0 +1,9 @@
+--island revsersal: http://www.incrediblecharts.com/technical/island_reversal.php
+up-trend island reversal up-tread: + gap_up + up_bar + gap_down
+
+up trend: higher highs -> h(0)>h(1) and higher lows -> l(0)>l(1)
+
+higher_high(n1) -> h(n1)>h(n1+1)
+higher_low(n1) -> l(n1)>l(n1+1)
+
+last 3 out of 10 days up trend: up_trend(n1,n2) -> (count(a,n2,higher_high(:a))>n1)&(count(a,n2,higher_lows(:a))>n1)

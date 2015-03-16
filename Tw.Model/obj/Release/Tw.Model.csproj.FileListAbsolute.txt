@@ -1,0 +1,19 @@
+C:\dev\Code\TW4\Tw.Model\bin\Release\Tw.Model.dll
+C:\dev\Code\TW4\Tw.Model\bin\Release\Tw.Model.pdb
+C:\dev\Code\TW4\Tw.Model\obj\Release\ResolveAssemblyReference.cache
+C:\dev\Code\TW4\Tw.Model\obj\Release\Tw.Model.dll
+C:\dev\Code\TW4\Tw.Model\obj\Release\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Tw.Model\obj\Release\Tw.Model.csprojResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TW4\Tw.Model\obj\Release\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Tw.Model\obj\Release\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Tw.Model\bin\Release\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Tw.Model\bin\Release\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\bin\Release\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\bin\Release\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\obj\Release\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Tw.Model\obj\Release\Tw.Model.pdb
+C:\Development\ClientServer\TW4\Tw.Model\bin\Release\Tw.Model.dll
+C:\Development\ClientServer\TW4\Tw.Model\bin\Release\Tw.Model.pdb
+C:\Development\ClientServer\TW4\Tw.Model\obj\Release\Tw.Model.dll
+C:\Development\ClientServer\TW4\Tw.Model\obj\Release\Tw.Model.pdb

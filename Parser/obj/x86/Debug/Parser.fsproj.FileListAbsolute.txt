@@ -1,0 +1,94 @@
+C:\dev\TW\Parser\bin\Debug\Language.XML
+C:\dev\TW\Parser\bin\Debug\Language.pdb
+C:\dev\TW\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\TW\Parser\obj\x86\Debug\Lexer.fs
+C:\dev\TW\Parser\obj\x86\Debug\Parser.fs
+C:\dev\TW\Parser\obj\x86\Debug\Language.pdb
+C:\dev\TW\Parser\bin\Debug\Language.dll
+C:\dev\TW\Parser\obj\x86\Debug\Language.dll
+C:\Users\clark\Desktop\TradeWiki\Parser\bin\Debug\Language.XML
+C:\Users\clark\Desktop\TradeWiki\Parser\obj\x86\Debug\Lexer.fs
+C:\Users\clark\Desktop\TradeWiki\Parser\obj\x86\Debug\Parser.fs
+C:\dev\TradeWiki\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\TradeWiki\Parser\obj\x86\Debug\Lexer.fs
+C:\dev\TradeWiki\Parser\obj\x86\Debug\Parser.fs
+C:\dev\TradeWiki\Parser\bin\Debug\Language.XML
+C:\dev\TradeWiki\Parser\bin\Debug\Parser.dll
+C:\dev\TradeWiki\Parser\bin\Debug\Parser.pdb
+C:\dev\TradeWiki\Parser\bin\Debug\CSharpLibrary.dll
+C:\dev\TradeWiki\Parser\bin\Debug\Repository.dll
+C:\dev\TradeWiki\Parser\bin\Debug\CSharpLibrary.pdb
+C:\dev\TradeWiki\Parser\bin\Debug\Repository.pdb
+C:\dev\TradeWiki\Parser\obj\x86\Debug\Parser.dll
+C:\dev\TradeWiki\Parser\obj\x86\Debug\Parser.pdb
+C:\Users\clark\Desktop\TradeWiki\Parser\bin\Debug\Parser.dll
+C:\Users\clark\Desktop\TradeWiki\Parser\bin\Debug\Parser.pdb
+C:\Users\clark\Desktop\TradeWiki\Parser\bin\Debug\CSharpLibrary.dll
+C:\Users\clark\Desktop\TradeWiki\Parser\bin\Debug\Repository.dll
+C:\Users\clark\Desktop\TradeWiki\Parser\bin\Debug\CSharpLibrary.pdb
+C:\Users\clark\Desktop\TradeWiki\Parser\bin\Debug\Repository.pdb
+C:\Users\clark\Desktop\TradeWiki\Parser\obj\x86\Debug\Parser.fsprojResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TradeWiki\Parser\obj\x86\Debug\Parser.dll
+C:\Users\clark\Desktop\TradeWiki\Parser\obj\x86\Debug\Parser.pdb
+C:\dev\Code\TW\Parser\bin\Debug\Language.XML
+C:\dev\Code\TW\Parser\bin\Debug\Parser.dll
+C:\dev\Code\TW\Parser\bin\Debug\Parser.pdb
+C:\dev\Code\TW\Parser\bin\Debug\CSharpLibrary.dll
+C:\dev\Code\TW\Parser\bin\Debug\Repository.dll
+C:\dev\Code\TW\Parser\bin\Debug\CSharpLibrary.pdb
+C:\dev\Code\TW\Parser\bin\Debug\Repository.pdb
+C:\dev\Code\TW\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\Code\TW\Parser\obj\x86\Debug\Lexer.fs
+C:\dev\Code\TW\Parser\obj\x86\Debug\Parser.fs
+C:\dev\Code\TW\Parser\obj\x86\Debug\Parser.dll
+C:\dev\Code\TW\Parser\obj\x86\Debug\Parser.pdb
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Language.XML
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Parser.dll
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Parser.pdb
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\Parser.fsprojResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\Parser.dll
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\Parser.pdb
+C:\dev\Code\TW4\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\Code\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\dev\Code\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\dev\Code\TW4\Parser\bin\Debug\Language.XML
+C:\dev\Code\TW4\Parser\bin\Debug\Parser.dll
+C:\dev\Code\TW4\Parser\bin\Debug\Parser.pdb
+C:\dev\Code\TW4\Parser\bin\Debug\Tw.Model.dll
+C:\dev\Code\TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\dev\Code\TW4\Parser\obj\x86\Debug\Parser.dll
+C:\dev\Code\TW4\Parser\obj\x86\Debug\Parser.pdb
+C:\Users\clark\Desktop\TW4\TW4\Parser\bin\Debug\Language.XML
+C:\Users\clark\Desktop\TW4\TW4\Parser\bin\Debug\Parser.dll
+C:\Users\clark\Desktop\TW4\TW4\Parser\bin\Debug\Parser.pdb
+C:\Users\clark\Desktop\TW4\TW4\Parser\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\TW4\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TW4\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Users\clark\Desktop\TW4\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Users\clark\Desktop\TW4\TW4\Parser\obj\x86\Debug\Parser.dll
+C:\Users\clark\Desktop\TW4\TW4\Parser\obj\x86\Debug\Parser.pdb
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\bin\Debug\Language.XML
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\bin\Debug\Parser.dll
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\bin\Debug\Parser.pdb
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\obj\x86\Debug\Parser.fsprojResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\obj\x86\Debug\Parser.dll
+C:\Users\clark\Desktop\TW4_2\TW4\Parser\obj\x86\Debug\Parser.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Language.XML
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Parser.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Parser.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\Parser.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\Parser.pdb

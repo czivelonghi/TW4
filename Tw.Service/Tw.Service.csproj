@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{93CCBCE5-B991-4258-B0AF-59D9EC0C954E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tw.Service</RootNamespace>
+    <AssemblyName>Tw.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cecil.FlowAnalysis, Version=0.1.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\db4o\db4o-8.0\bin\net-4.0\Cecil.FlowAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="Db4objects.Db4o">
+      <HintPath>..\..\..\..\Program Files\db4o\db4o-8.0\bin\net-4.0\Db4objects.Db4o.dll</HintPath>
+    </Reference>
+    <Reference Include="Db4objects.Db4o.Instrumentation">
+      <HintPath>..\..\..\..\..\Program Files\db4o\db4o-8.0\bin\net-4.0\Db4objects.Db4o.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="Db4objects.Db4o.Linq">
+      <HintPath>..\..\..\..\Program Files\db4o\db4o-8.0\bin\net-4.0\Db4objects.Db4o.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Db4objects.Db4o.NativeQueries">
+      <HintPath>..\..\..\..\..\Program Files\db4o\db4o-8.0\bin\net-4.0\Db4objects.Db4o.NativeQueries.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil, Version=0.9.3.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\db4o\db4o-8.0\bin\net-4.0\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Reflection">
+      <HintPath>..\..\..\..\..\Program Files\db4o\db4o-8.0\bin\net-4.0\Mono.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Utility.cs" />
+    <Compile Include="Provider\Db4o\AmexDayProvider.cs" />
+    <Compile Include="Provider\Db4o\BaseProvider.cs" />
+    <Compile Include="Provider\Db4o\CompanyProvider.cs" />
+    <Compile Include="Provider\Db4o\NasdaqDayProvider.cs" />
+    <Compile Include="Provider\Db4o\NyseDayProvider.cs" />
+    <Compile Include="Provider\Db4o\PriceProvider.cs" />
+    <Compile Include="Provider\Db4o\SystemProvider.cs" />
+    <Compile Include="Provider\Db4o\UserProvider.cs" />
+    <Compile Include="Repository\BaseRepository.cs" />
+    <Compile Include="Repository\CompanyRepository.cs" />
+    <Compile Include="Repository\SystemRepository.cs" />
+    <Compile Include="Repository\CommandRepository.cs" />
+    <Compile Include="Helper\HelperRepository.cs" />
+    <Compile Include="Repository\PriceRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\AnalysisRepository.cs" />
+    <Compile Include="Repository\ExpressionRepository.cs" />
+    <Compile Include="Repository\UserRepository.cs" />
+    <Compile Include="Repository\UtilityViewRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parser\FSharpAnalysis.fsproj">
+      <Project>{858F9989-7D0C-4270-BAE5-6B8DC47A95FA}</Project>
+      <Name>FSharpAnalysis</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tw.Model\Tw.Model.csproj">
+      <Project>{01557E0F-277F-4EAA-A1E8-8A2A3CAEFAB8}</Project>
+      <Name>Tw.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

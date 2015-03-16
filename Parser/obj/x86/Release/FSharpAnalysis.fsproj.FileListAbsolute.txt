@@ -1,0 +1,22 @@
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Release\Language.XML
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Release\Lexer.fs
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Release\Parser.fs
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Release\FSharpAnalysis.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Release\FSharpAnalysis.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Release\System.Data.SQLite.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Release\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Release\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Release\FSharpAnalysis.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Release\FSharpAnalysis.pdb
+C:\Development\ClientServer\TW4\Parser\bin\Release\Language.XML
+C:\Development\ClientServer\TW4\Parser\bin\Release\FSharpAnalysis.dll
+C:\Development\ClientServer\TW4\Parser\bin\Release\FSharpAnalysis.pdb
+C:\Development\ClientServer\TW4\Parser\bin\Release\System.Data.SQLite.dll
+C:\Development\ClientServer\TW4\Parser\bin\Release\Tw.Model.dll
+C:\Development\ClientServer\TW4\Parser\bin\Release\Tw.Model.pdb
+C:\Development\ClientServer\TW4\Parser\obj\x86\Release\FSharpAnalysis.fsprojResolveAssemblyReference.cache
+C:\Development\ClientServer\TW4\Parser\obj\x86\Release\Lexer.fs
+C:\Development\ClientServer\TW4\Parser\obj\x86\Release\Parser.fs
+C:\Development\ClientServer\TW4\Parser\obj\x86\Release\FSharpAnalysis.dll
+C:\Development\ClientServer\TW4\Parser\obj\x86\Release\FSharpAnalysis.pdb

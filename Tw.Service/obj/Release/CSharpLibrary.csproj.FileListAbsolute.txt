@@ -1,0 +1,9 @@
+C:\dev\TradeWiki\CSharpLibrary\bin\Release\CSharpLibrary.dll
+C:\dev\TradeWiki\CSharpLibrary\bin\Release\CSharpLibrary.pdb
+C:\dev\TradeWiki\CSharpLibrary\bin\Release\System.Data.SQLite.dll
+C:\dev\TradeWiki\CSharpLibrary\bin\Release\System.Data.SQLite.Linq.dll
+C:\dev\TradeWiki\CSharpLibrary\bin\Release\System.Data.SQLite.pdb
+C:\dev\TradeWiki\CSharpLibrary\bin\Release\System.Data.SQLite.Linq.pdb
+C:\dev\TradeWiki\CSharpLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\dev\TradeWiki\CSharpLibrary\obj\Release\CSharpLibrary.dll
+C:\dev\TradeWiki\CSharpLibrary\obj\Release\CSharpLibrary.pdb

@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/7999019/why-is-this-fsyacc-input-producing-f-that-does-not-compile
+
+another good fsyac article:
+http://allaboutdata.wordpress.com/tag/fsyacc/

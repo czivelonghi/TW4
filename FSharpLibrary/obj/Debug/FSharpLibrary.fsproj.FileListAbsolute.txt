@@ -1,0 +1,219 @@
+c:\users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+c:\users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+c:\users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+c:\users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+c:\users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\Users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.dll
+C:\Users\clark\documents\visual studio 2010\Projects\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.xml
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.dll
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.pdb
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.xml
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.pdb
+C:\Documents and Settings\czivelonghi\Desktop\Dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.dll
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.pdb
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.xml
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.pdb
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\Users\clark\Desktop\TradeWiki\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.xml
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\dev\TW\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\dev\TW\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\dev\TW\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\dev\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.dll
+C:\dev\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\dev\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.dll
+C:\dev\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.dll
+C:\dev\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.pdb
+C:\dev\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.xml
+C:\dev\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.pdb
+C:\dev\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\dev\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\dev\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.xml
+C:\dev\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\dev\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.xml
+C:\dev\TW\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\TW\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\dev\TW\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.dll
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.dll
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.dll
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.pdb
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.xml
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.pdb
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.xml
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\Users\clark\Desktop\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\CSharpLibrary.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Abstractions.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Embedded.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.FSharp.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Database.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Storage.Esent.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\System.Data.SQLite.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Repository.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\NLog.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\ICSharpCode.NRefactory.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Spatial4n.Core.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Esent.Interop.dll
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Bson.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\MongoDB.Driver.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Abstractions.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Abstractions.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Embedded.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Embedded.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.FSharp.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.FSharp.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Database.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Database.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Raven.Storage.Esent.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\System.Data.SQLite.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Repository.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\NLog.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Spatial4n.Core.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\BouncyCastle.Crypto.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Esent.Interop.pdb
+C:\dev\TradeWiki\FSharpLibrary\bin\Debug\Esent.Interop.xml
+C:\dev\TradeWiki\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\dev\TradeWiki\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\CSharpLibrary.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\System.Data.SQLite.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Repository.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\NLog.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\ICSharpCode.NRefactory.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.SpellChecker.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Spatial4n.Core.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.Spatial.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\BouncyCastle.Crypto.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Esent.Interop.dll
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MongoDB.Bson.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\MongoDB.Driver.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Abstractions.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Abstractions.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Client.Embedded.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Client.Embedded.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.FSharp.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Client.Lightweight.FSharp.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Database.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Database.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Raven.Storage.Esent.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\System.Data.SQLite.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Repository.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\NLog.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.SpellChecker.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.SpellChecker.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Spatial4n.Core.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.Spatial.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Lucene.Net.Contrib.Spatial.xml
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\BouncyCastle.Crypto.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Esent.Interop.pdb
+C:\dev\Code\TW\FSharpLibrary\bin\Debug\Esent.Interop.xml
+C:\dev\Code\TW\FSharpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Code\TW\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\dev\Code\TW\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
+C:\Users\Clark\Desktop\development\TW4\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\Users\Clark\Desktop\development\TW4\FSharpLibrary\obj\Debug\FSharpLibrary.pdb

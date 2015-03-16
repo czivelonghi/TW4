@@ -1,0 +1,115 @@
+--object (ctx):
+environment: enviroment data
+search: search price data. ex: search>
+backtest: test data
+rank: orders data
+data: data management
+expression: expressions for eval
+entry: entries used in backtests
+exit: exits used in backtests
+
+--complex examples:
+--saving--
+create a new exit:					backtest[amex_doji]\entry[doji]\exit\s time_exp
+set exit var:						backtest[amex_doji]\entry[doji]\exit[time_exp)\expression<-trade_date-15>today
+update exit: 						backtest[amex_doji]\entry[doji]\exit[time_exp]\s
+
+--loading--
+load backtest: 						backtest>r amex_doji					-> backtest[amex_doji]>
+
+--listing--
+list entries for backtest: 			backtest[amex_doji]>li entry or backtest[amex_doji]\entry\li
+list backtests when bt is loaded: 	backtest[amex_doji]>li
+
+--deleting--
+delete backtest: 					backtest[amex_doji]>d amex_doji			-> backtest>
+delete backtest entry: 				backtest[amex_doji]\entry[doji]>d doji	-> backtest[amex_doji]\entry>
+
+--clearing--
+unload backtest:					backtest[amex_doji]>clear backtest		-> backtest>
+unload backtest:					backtest[amex_doji]>clear				-> backtest>
+clear screen:						backtest>clear							-> clears entire screen
+
+--navigating--
+back one dir: 						backtest[amex_doji]\entry>cd ..			->  backtest[amex_doji]>
+back one dir: 						backtest>cd ..							->  backtest>
+nav up	dir: 						backtest[amex_doji]>cd entry
+switch context:						backtest[amex_doji]>cd expression
+switch context:						expression>cd backtest					-> backtest[amex_doji]
+
+--crud logic--
+r [name]			load object into global var and display name as part of context.
+d [name]			deletes current object within context(i.e. backtest[name]>), clears context vars, and reset context name.
+s [name]			saves object and context vars to db. 
+
+--navigating--
+cd [name or op]		navigate down a directory or sets context
+
+--nav design--
+1. create list to cache context vars. ctx, name, and value
+2. r -> load new context vars into cache and set context w\name
+3. d -> clear context vars from cache, delete obj from db, and remove name from context
+4. s -> saves all context vars to db
+5. cd [name] -> switch context, display name in context (if previously loaded).
+6. cd ..	-> clear child cache and display parent context (if no root object).
+7. clear    -> clears context vars, removes name from context(if exists), clears screen(root context no name).
+
+--implentation
+1. create list object to store name value. List<string,string[]>
+
+--queries--
+
+--create
+c name
+
+--delete--
+d name
+
+--read--
+r name
+
+--list--
+li
+
+--query--
+object: price
+name: nyse_price
+e1:exchange=nyse
+e2:period>=20110101
+e3:
+
+query>li
+object	name		e1				e2				e3
+price	agilent_day	exchange=nyse	interval=day	symbol=A
+
+query>li object
+...objects..
+object		fields
+price		symbol,exchange,high,low,open,close,volume
+company		name,company,
+
+
+
+
+functions:
+list item: 	list context objects. use: li [ctx] name [] [] []. ex: li price a, li env, li exp [name/id]
+delete: 	deletes ctx obj: use: d [ctx] name/id. ex: search>d doji. ex 2: search[doji]>d. 
+write: 		saves obj to db. use: w [ctx] name/id [] [] []. ex: w exp xyz(n1)
+read: 		loads object into environment vars. use: r name/id. ex: search>r 123 or search[doji]>r amex_island_rev 
+<- : 		set var value. ex: exch<-amex
+-> : 		pipes 1st results to 2nd. Ex: exp doji(0) -> rank by_vol(top(5)) -> backtest recent_doji -> export -> chart
+cd: 		change dir and carry over vars. cd search
+test exp: 	tests expression with sample data. ex: test exp doji(0)
+test red: 	tests reduction of expression. ex: test red doji(0)
+clear: 		clear screen. use: clear [func or ctx]. ex: clear backtest
+exit: 		exit system: ex: exit
+help: 		? [ctx or functions]. ex: ? backtest
+
+notes:
+variables: 
+1. vars carry over when switching context
+2. when loading objects, set vars to obj prop
+3. deleting an object, then clear current ctx vars
+4. child objects also have env vars.
+ctx:
+1. no function listed then run command   	  

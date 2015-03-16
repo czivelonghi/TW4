@@ -1,0 +1,48 @@
+C:\Users\clark\Desktop\Copy of TW4\Parser\bin\Debug\Language.XML
+C:\Users\clark\Desktop\Copy of TW4\Parser\bin\Debug\FSharpAnalysis.dll
+C:\Users\clark\Desktop\Copy of TW4\Parser\bin\Debug\FSharpAnalysis.pdb
+C:\Users\clark\Desktop\Copy of TW4\Parser\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\Copy of TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\Copy of TW4\Parser\obj\x86\Debug\FSharpAnalysis.fsprojResolveAssemblyReference.cache
+C:\Users\clark\Desktop\Copy of TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Users\clark\Desktop\Copy of TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Users\clark\Desktop\Copy of TW4\Parser\obj\x86\Debug\FSharpAnalysis.dll
+C:\Users\clark\Desktop\Copy of TW4\Parser\obj\x86\Debug\FSharpAnalysis.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Language.XML
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\FSharpAnalysis.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\FSharpAnalysis.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Tw.Model.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\FSharpAnalysis.dll
+C:\Documents and Settings\czivelonghi\Desktop\TW4\Parser\obj\x86\Debug\FSharpAnalysis.pdb
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Language.XML
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\FSharpAnalysis.dll
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\FSharpAnalysis.pdb
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Tw.Model.dll
+C:\Users\clark\Desktop\TW4\Parser\bin\Debug\Tw.Model.pdb
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\FSharpAnalysis.fsprojResolveAssemblyReference.cache
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\FSharpAnalysis.dll
+C:\Users\clark\Desktop\TW4\Parser\obj\x86\Debug\FSharpAnalysis.pdb
+C:\Development\ClientServer\TW4\Parser\obj\x86\Debug\FSharpAnalysis.fsprojResolveAssemblyReference.cache
+C:\Development\ClientServer\TW4\Parser\obj\x86\Debug\Lexer.fs
+C:\Development\ClientServer\TW4\Parser\obj\x86\Debug\Parser.fs
+C:\Development\ClientServer\TW4\Parser\obj\x86\Debug\FSharpAnalysis.dll
+C:\Development\ClientServer\TW4\Parser\obj\x86\Debug\FSharpAnalysis.pdb
+C:\Development\ClientServer\TW4\Parser\FSharpAnalysis.dll
+C:\Development\ClientServer\TW4\Parser\FSharpAnalysis.pdb
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.dll
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.FSharp.dll
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.IO.dll
+C:\Development\ClientServer\TW4\Parser\Tw.Model.dll
+C:\Development\ClientServer\TW4\Parser\Tw.Model.pdb
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.pdb
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.xml
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.FSharp.pdb
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.FSharp.xml
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.IO.pdb
+C:\Development\ClientServer\TW4\Parser\MathNet.Numerics.IO.xml

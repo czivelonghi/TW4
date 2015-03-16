@@ -1,0 +1,6 @@
+
+linq optimization
+http://www.emphess.net/2010/03/16/db4o-queries-on-large-datasets-and-a-bit-of-linq/
+
+tuning
+http://community.versant.com/Documentation/Reference/db4o-7.12/net35/reference/html/reference/tuning.html

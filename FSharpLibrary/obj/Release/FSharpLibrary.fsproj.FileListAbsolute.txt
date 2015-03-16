@@ -1,0 +1,1 @@
+C:\dev\TradeWiki\FSharpLibrary\obj\Release\ResolveAssemblyReference.cache

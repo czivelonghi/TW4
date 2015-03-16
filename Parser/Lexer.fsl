@@ -1,0 +1,109 @@
+﻿{
+module Lexer
+open System
+open Parser
+open Microsoft.FSharp.Collections 
+open Microsoft.FSharp.Text.Lexing
+
+let createHashTable init =
+    let table = new HashMultiMap<string, _> (HashIdentity.Structural)
+    init |>
+        List.iter (fun kv -> table.Add(fst kv, snd kv))
+    table
+ 
+let operator_table =
+    createHashTable [
+        (">", GT);
+        ("<", LT);
+        ("=", EQ);
+        (">=", GE);
+        ("<=", LE)]
+
+let lexeme lexbuf =
+    LexBuffer<char>.LexemeString lexbuf
+}
+
+// These are some regular expression definitions
+let char  = ['a'-'z' 'A'-'Z']
+let name = ['a'-'z' 'A'-'Z' '0'-'9' ''']
+let digit = ['0'-'9']
+let whitespace = [' ' '\t' ]
+let newline = ('\n' | '\r' '\n')
+let op = ">" | "<" | "=" | "<=" | ">=" | "!="
+let incr = [':']+char //:a, :b, etc
+
+rule tokenize = parse
+| whitespace	{ tokenize lexbuf }
+| newline       { tokenize lexbuf }
+// Operators
+| "+"			{ PLUS }
+| "-"			{ MINUS }
+| "*"			{ ASTER }
+| "/"			{ SLASH }
+| "%"			{ MOD }
+| "**"			{ POW }
+| op			{
+                          let identifier = lexeme lexbuf
+                          if operator_table.ContainsKey (identifier) then
+                              operator_table.Item(identifier)
+                          else
+                              let exceptionString = String.Format("Unrecognized expression at line {0} column {1}",
+                                                                  lexbuf.EndPos.Line + 1,
+                                                                  lexbuf.EndPos.Column)
+                              LEXEREXCEPTION (exceptionString)
+                      } 
+//Bool
+| "&"			{ AMP }
+| "|"			{ PIPE }
+| "AND"			{ AND }
+| "OR"			{ OR }
+| "COUNT"		{ COUNT }
+| "IF"			{ IF }
+// variables
+| ":"           { INCR }
+//Functions
+| "SQRT"		{ SQRT }
+| "LOG"			{ LOG }
+| "MAX"			{ MAX }
+| "MIN"			{ MIN }
+| "SMA"			{ SMA }
+| "STD"			{ STD }
+| "SLOPE"		{ SLOPE }
+| "CANDLE"		{ CANDLE }
+| "PAT1"		{ PAT1 }
+| "PAT2"		{ PAT2 }
+| "PAT3"		{ PAT3 }
+| "FOR"			{ FOR }
+| "ABS"			{ ABS }
+//Data
+| "O"    		{ OPEN }
+| "H"    		{ HIGH }
+| "L"    		{ LOW }
+| "C"    		{ CLOSE }
+| "V"    		{ VOLUME }
+| "S"    		{ SYMBOL }
+| "D"    		{ DATE }
+//lookup
+| "VAR"			{ VAR }
+| "EQUALS"			{ EQUALS}
+// Misc
+| "("			{ LPAREN }
+| ")"			{ RPAREN }
+| ","			{ COMMA }
+| "'"			{ APOS }
+// Numberic constants
+//| ['-']?digit+									{ INT32 (Int32.Parse(lexeme lexbuf)) }
+//| ['-']?digit+('.'digit+)?(['e''E']digit+)?		{ FLOAT (Double.Parse(lexeme lexbuf)) }
+| digit+									{ INT32 (Int32.Parse(lexeme lexbuf)) }
+| digit+('.'digit+)?(['e''E']digit+)?		{ FLOAT (Double.Parse(lexeme lexbuf)) }
+| ['a'-'z' 'A'-'Z']
+| name+ { TEXT (lexeme lexbuf) }
+| _
+                {
+                    let exceptionString = String.Format("Unrecognized character at line {0} column {1}",
+                                                        lexbuf.EndPos.Line + 1,
+                                                        lexbuf.EndPos.Column)
+                    LEXEREXCEPTION (exceptionString)
+                }
+// EOF
+| eof   { EOF }
